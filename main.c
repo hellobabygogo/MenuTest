@@ -14,7 +14,11 @@
 /*
  * Revision log:
  *
+<<<<<<< HEAD
  * Created by YangXuan, 2014/09/22
+=======
+ * Created by Yangxuan, 2014/09/22
+>>>>>>> origin/master
  *
  */
  
