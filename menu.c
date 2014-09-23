@@ -2,7 +2,7 @@
 /* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                                                  */
 /*                                                                                                */
 /*  FILE NAME             :  menu.c                                                               */
-/*  PRINCIPAL AUTHOR      :  Mengning                                                             */
+/*  PRINCIPAL AUTHOR      :  Yangxuan                                                             */
 /*  SUBSYSTEM NAME        :  menu                                                                 */
 /*  MODULE NAME           :  menu                                                                 */
 /*  LANGUAGE              :  C                                                                    */
@@ -14,7 +14,7 @@
 /*
  * Revision log:
  *
- * Created by Mengning, 2014/09/22
+ * Created by YangXuan, 2014/09/22
  *
  */
 
